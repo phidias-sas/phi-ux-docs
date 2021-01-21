@@ -1,0 +1,1 @@
+.ui-list{max-width:800px}.ui-list .ui-item{display:-webkit-box;display:-ms-flexbox;display:flex}.ui-list.--selectable .ui-item{cursor:pointer}.ui-list.--selectable .ui-item:hover{background-color:rgba(0,0,0,.06)}.ui-list.--sublist{border-left:1px solid rgba(0,0,0,.07);margin-left:26px;margin-bottom:26px;padding-left:6px}
